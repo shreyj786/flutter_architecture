@@ -1,6 +1,6 @@
-# flutter_practice
+# Flutter Clean Architecutre
 
-A new Flutter project.
+This project is a practice practice project and completely based on resocoder's tutorial. This repo does not include test cases.
 
 ## Getting Started
 
